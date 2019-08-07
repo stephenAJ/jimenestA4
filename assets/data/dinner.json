@@ -1,0 +1,17 @@
+{
+	"dinner": [{
+			"food": "rice",
+			"price": "7.99",
+			"calories": "650"
+		}, {
+			"food": "Chicken",
+			"price": "8.99",
+			"calories": "600"
+		},
+		{
+			"food": "Vegetables",
+			"price": "6.50",
+			"calories": "200"
+		}
+	]
+}

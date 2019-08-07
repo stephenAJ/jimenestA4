@@ -1,0 +1,17 @@
+{
+	"lunch": [{
+			"food": "HamBurger",
+			"price": "7.99",
+			"calories": "650"
+		}, {
+			"food": "French Fries",
+			"price": "4.50",
+			"calories": "550"
+		},
+		{
+			"food": "Hotdog",
+			"price": "1.00",
+			"calories": "350"
+		}
+	]
+}
